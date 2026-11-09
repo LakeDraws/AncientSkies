@@ -20,7 +20,7 @@
 - True Volumetric Clouds
 
 # Planned Updates
-- 3 more stars, with them all being far older than Kerbol and having a low metallicity
+- 3 more stars, with them all being far older than Kerbol, specifically marking them as Population II stars
 - Custom ground textures (maybe)
 - Custom scatters (maybe)
 - Custom map icons
